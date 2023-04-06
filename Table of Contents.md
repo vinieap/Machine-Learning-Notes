@@ -1,3 +1,8 @@
+---
+title: Table of Contents
+created: 2023-04-05
+---
+
 ## 1. Introduction to Machine Learning
    - 1.1. What is Machine Learning?
    - 1.2. Types of Machine Learning
