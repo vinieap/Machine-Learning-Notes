@@ -1,6 +1,6 @@
-\---
-title: Table of Contents
-created: 2023-04-05
+\---<br>
+title: Table of Contents <br>
+created: 2023-04-05 <br>
 \---
 
 ## 1. Introduction to Machine Learning
